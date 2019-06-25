@@ -6,6 +6,8 @@ const STORE = {
     tips: [],
 };
 
+// mark up functions
+
 function generateCustomerChargesHTML() {
 
 }
@@ -13,6 +15,8 @@ function generateCustomerChargesHTML() {
 function generateEarningsInfoHTML() {
 
 }
+
+//render functions
 
 function renderStore() {
 
@@ -33,6 +37,8 @@ function clearMealDetails() {
 function clearTips() {
 
 }
+
+// event listener functions 
 
 function handleMealDetailsSubmit() {
 
